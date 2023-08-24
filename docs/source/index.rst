@@ -1,5 +1,5 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome To e-Daily DOCS!
+========================
 
 **e-Daily** (/lu'make/) is a website for presence in the office of skyline <https://edaily.sti-group.co.id/> *intuitive* API.
 
